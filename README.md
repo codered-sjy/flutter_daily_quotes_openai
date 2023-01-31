@@ -1,4 +1,4 @@
-# Daily Quotes
+# Daily Quotes - Flutter | Cloud Functions | Open AI
 
 Single page flutter app displays a new quote everyday. 
 
